@@ -1,0 +1,16 @@
+
+.git
+.github
+.devcontainer
+.env
+.env.*
+!.env.example
+node_modules
+vendor
+public/hot
+public/build
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+
